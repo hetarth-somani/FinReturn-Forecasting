@@ -78,6 +78,4 @@ The pipeline will:
 | [Jane Street 1st Place](https://www.kaggle.com/c/jane-street-market-prediction/discussion/224348) | Supervised Autoencoder MLP architecture |
 | [Optiver 2nd Place](https://www.kaggle.com/c/optiver-realized-volatility-prediction/discussion/274970) | 1D-CNN + diverse ensembling strategy |
 
-## License
 
-MIT
