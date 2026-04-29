@@ -1,0 +1,38 @@
+# Data
+data/
+dataset/
+models/
+output/
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Plots & artifacts
+eda_plots/
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment & IDE
+env/
+.venv/
+.vscode/
+.agent/
+.claude.json
+*.egg-info/
+
+# Legacy planning docs
+docs/
+phase.md
+plan.md
+master_prompt.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+*.npy
